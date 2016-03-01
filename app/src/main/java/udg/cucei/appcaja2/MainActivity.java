@@ -15,7 +15,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-// adolfo se la come
+// adolfo se la come2
 
 public class MainActivity extends FragmentActivity implements ActionBar.TabListener {
 
